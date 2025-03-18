@@ -1,3 +1,4 @@
+
 .vs/
 .vscode/
 *.vcxproj.user
@@ -13,9 +14,13 @@ Release/
 ReleasePublic/
 x64/Debug/
 x64/Release/
+
 *.exe
 *.ilk
 *.obj
 *.pdb
 *.idb
 *.tlog
+
+*.txt
+*.log
